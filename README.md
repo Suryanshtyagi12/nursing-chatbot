@@ -22,12 +22,6 @@ This is a conversational AI assistant designed to help prospective nursing stude
 
 ---
 
-## 📸 Interface Preview
-
-![Chat Screenshot](path_to_image_if_available.png)
-
----
-
 ## 🚀 Demo
 
 Try it on Hugging Face Spaces here:  
